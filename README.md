@@ -3,10 +3,9 @@
 Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unity.
 
 ## Integrantes
-- C4BALLERO
-- Nombre 2
-- Nombre 3
-- Nombre 4
+- Alexander Vigabriel
+- Kevin Alanes
+- Santiago Vargas
 
 ## Ramas
 - main

@@ -3,6 +3,7 @@
 Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unity.
 
 ## Integrantes
+- Joel Illanes
 - Alexander Vigabriel
 - Kevin Alanes
 - Santiago Vargas

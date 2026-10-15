@@ -8,6 +8,8 @@ Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unit
 - Kevin Alanes
 - Santiago Vargas
 
+Cuentas de GitHub: C4BALLERO (Joel), AxlRoss-punk (Alexander), 23Alanes7 (Kevin), SantyVargasIllanes (Santiago).
+
 ## Ramas
 - main
 - Dev

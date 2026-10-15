@@ -12,6 +12,6 @@ public class PlayerInteraction : MonoBehaviour
 
     private void TryInteract()
     {
-        Debug.Log("Buscando objeto interactuable...");
+        Debug.Log("Buscando objeto interactuable (WIP: raycast pendiente)...");
     }
 }

@@ -1,0 +1,10 @@
+# Unity guarda escenas, prefabs y assets con fin de linea LF.
+# Forzar LF evita cambios fantasma (archivos marcados como modificados sin diferencias).
+* text=auto eol=lf
+
+# Binarios
+*.png binary
+*.jpg binary
+*.fbx binary
+*.wav binary
+*.mp3 binary

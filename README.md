@@ -33,6 +33,8 @@ Cuentas de GitHub: C4BALLERO (Joel), AxlRoss-punk (Alexander), 23Alanes7 (Kevin)
 ## Objetivo
 Explorar una habitación, resolver un código, abrir un cofre, obtener una llave y abrir la puerta de salida.
 
+Controles: WASD para moverse, E para interactuar.
+
 ## Requisitos
 - Unity 6000.3.23f1
 - Escena principal: `Assets/Scenes/MainScene.unity`

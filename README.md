@@ -31,6 +31,8 @@ Proyecto colaborativo de laboratorio de Git + GitHub + Visual Studio Code + Unit
 ## Objetivo
 Explorar una habitación, resolver un código, abrir un cofre, obtener una llave y abrir la puerta de salida.
 
+Controles: WASD para moverse, E para interactuar.
+
 ## Requisitos
 - Unity 6000.3.23f1
 - Escena principal: `Assets/Scenes/MainScene.unity`
